@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerOne
+  - PlayerTwo
+  - NumberOne
+  - NumberTwo
+  - ground
+  - grounded1
+  - grounded2
   layers:
   - Default
   - TransparentFX
